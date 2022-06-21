@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/FayezFirstOrg/063b677a-de55-484a-bcbe-2f5e37831042/1d9b26e3-aeb9-44be-a962-f432fc2ed22b/_apis/work/boardbadge/52883533-9eeb-45a7-b911-2bf1b6317b6c)](https://dev.azure.com/FayezFirstOrg/063b677a-de55-484a-bcbe-2f5e37831042/_boards/board/t/1d9b26e3-aeb9-44be-a962-f432fc2ed22b/Microsoft.RequirementCategory)
 
 # Contributing
 
